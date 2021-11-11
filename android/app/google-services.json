@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73430174609",
+    "project_id": "dairy-products-b55cb",
+    "storage_bucket": "dairy-products-b55cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73430174609:android:5bcf92b64789ac7156a830",
+        "android_client_info": {
+          "package_name": "com.madan.dairy_products"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73430174609-388ibsui8bu21o4idp8id2dg8mpn7qmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbwMG5AQ_ywpvyo7Ka4dP4JbsGhGaq5HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73430174609-388ibsui8bu21o4idp8id2dg8mpn7qmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
